@@ -7,3 +7,5 @@ There are three difficulty levels and several fonts to choose from. Each level h
 This game supports saving player's progress and scores.  </br>  </br>
 
 MonkeyTyper is a great way to have fun while improving your typing skills.
+
+[![Watch the video](https://img.youtube.com/vi/zJt6EwDLMXI/maxresdefault.jpg)](https://youtu.be/zJt6EwDLMXI)
