@@ -8,4 +8,6 @@ This game supports saving player's progress and scores.  </br>  </br>
 
 MonkeyTyper is a great way to have fun while improving your typing skills.
 
+### Click on the video below to watch how the game works. </br> You will be redirected to a YouTube page with the video.
+
 [![Watch the video](https://img.youtube.com/vi/zJt6EwDLMXI/maxresdefault.jpg)](https://youtu.be/zJt6EwDLMXI)
